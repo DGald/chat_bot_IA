@@ -16,7 +16,9 @@ Un chatbot especializado desarrollado para automatizar las respuestas de soporte
   Difflib: Librería para algoritmos avanzados de comparación de cadenas de texto.
 
  Clonar repositorio:       git clone https://github.com/tu-usuario/nombre-del-repo.git
+ 
  Instalar dependencias:    pip install streamlit deep-translator
+ 
  Run:                      python -m streamlit run Chat_bot_Ia.py
 
 
@@ -40,5 +42,7 @@ A specialized chatbot developed to automate technical support responses using NL
   Difflib: Library for advanced text similarity algorithms.
   
 Clone the repository:    git clone https://github.com/your-username/your-repo-name.git
+
 Install requeriments:    pip install streamlit deep-translator
+
 Run:                     python -m streamlit run Chat_bot_Ia.py

@@ -1,3 +1,6 @@
+# Desarrollado por: Danilo Galdámez
+# Proyecto: Chatbot de Soporte Técnico con NLP Multilingüe
+
 import streamlit as st
 from difflib import get_close_matches
 from deep_translator import GoogleTranslator
@@ -61,4 +64,5 @@ if prompt := st.chat_input("¿En qué puedo ayudarte? / How can I help you?"):
 
     with st.chat_message("assistant"):
         st.markdown(respuesta)
+
     st.session_state.messages.append({"role": "assistant", "content": respuesta})

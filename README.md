@@ -15,9 +15,11 @@ Un chatbot especializado desarrollado para automatizar las respuestas de soporte
   Deep Translator: Integración para el soporte multilingüe en tiempo real.
   Difflib: Librería para algoritmos avanzados de comparación de cadenas de texto.
 
-Clonar repositorio:       git clone https://github.com/tu-usuario/nombre-del-repo.git
-Instalar dependencias:    pip install streamlit deep-translator
-Run:                      python -m streamlit run Chat_bot_Ia.py
+ Clonar repositorio:       git clone https://github.com/tu-usuario/nombre-del-repo.git
+ Instalar dependencias:    pip install streamlit deep-translator
+ Run:                      python -m streamlit run Chat_bot_Ia.py
+
+
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   AI Technical Support Chatbot
